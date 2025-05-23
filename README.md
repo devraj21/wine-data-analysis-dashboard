@@ -52,6 +52,8 @@ netlify deploy --prod --dir=build
 - Tailwind CSS (Styling)
 - Netlify (Deployment)
 
+## Reference Data
+ - https://archive.ics.uci.edu/dataset/186/wine+quality
 ---
 
 **Made with ❤️ for wine lovers and data enthusiasts**
