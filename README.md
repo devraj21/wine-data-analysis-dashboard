@@ -5,19 +5,17 @@
 ## 🚀 Local Development
 
 ```bash
-# Create React app
-npx create-react-app wine-dashboard
-cd wine-dashboard
+# Clone the new repository
+git clone https://github.com/devraj21/wine-data-analysis-dashboard.git
+cd wine-data-analysis-dashboard
 
-# Install chart library
+# Now set up your React app inside this folder
+npx create-react-app . --template typescript
+# OR if you want JavaScript:
+npx create-react-app .
+
+# Install dependencies
 npm install recharts
-
-# Install Tailwind CSS
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-# Start development server
-npm start
 ```
 
 ## 🌐 Netlify Deployment (Free Hosting)
@@ -52,8 +50,9 @@ netlify deploy --prod --dir=build
 - Tailwind CSS (Styling)
 - Netlify (Deployment)
 
-## Reference Data
- - https://archive.ics.uci.edu/dataset/186/wine+quality
+## Reference
+- https://archive.ics.uci.edu/dataset/186/wine+quality
+- Google Collab notebook: https://colab.research.google.com/drive/1jAyJX8TWtzQfYHhcr3QwROmS2yJR1dxu
 ---
 
 **Made with ❤️ for wine lovers and data enthusiasts**
