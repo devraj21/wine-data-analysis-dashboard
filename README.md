@@ -1,5 +1,5 @@
 # 🍷 Wine Quality Analysis Dashboard
-
+    **Made with ❤️ for wine lovers and data enthusiasts**
 > Interactive data visualization revealing how alcohol content predicts wine quality using real UCI dataset analysis.
 
 ## 🚀 Local Development
@@ -55,4 +55,3 @@ netlify deploy --prod --dir=build
 - Google Collab notebook: https://colab.research.google.com/drive/1jAyJX8TWtzQfYHhcr3QwROmS2yJR1dxu
 ---
 
-**Made with ❤️ for wine lovers and data enthusiasts**
